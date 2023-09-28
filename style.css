@@ -1,8 +1,9 @@
 .intro{
-    height:90vh;
+    height:fit-content;
     background: url("https://i.pinimg.com/originals/3f/b9/6e/3fb96e5958d0d61a056ef6c108736e28.gif") no-repeat;
     background-size: 100%;
     padding-top: 20%;
+    padding-bottom: 8%;
    }
   
    h1{
@@ -51,6 +52,7 @@
    p{
     padding-left: 20px;
     padding-right: 20px;
+    text-align: center;
    }
    .fries{
     padding-top: 10px;
@@ -69,4 +71,14 @@
    .btn{
     background-color: #214774;
     color: white;
+   }
+   .footer{
+    height: 120px;
+    background-color: #214774;
+    margin-bottom: 0;
+   }
+   
+   .text{
+    color: white;
+    padding-top: 45px;
    }
