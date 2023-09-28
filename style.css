@@ -16,6 +16,9 @@
     font-size: 30px;
     font-family: 'Montserrat', sans-serif;
    }
+   h3{
+    text-align: center;
+   }
    .pro{
     text-decoration: underline;
    }
@@ -31,7 +34,7 @@
     padding-bottom: 10px;
     color: #214774;
    }
- p{
+ .note{
     color: rgb(13, 118, 137);
     margin: auto;
     text-align: center;
@@ -39,4 +42,13 @@
     font-size: 18px;
     padding-left: 30%;
     padding-right: 30%;
+   }
+   .skill{
+    color: #214774;
+    font-family: "Merriweather", serif;
+    text-align: center;
+   }
+   p{
+    padding-left: 20px;
+    padding-right: 20px;
    }
